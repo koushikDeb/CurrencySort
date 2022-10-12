@@ -30,10 +30,22 @@ The purpose of this app to showcase:
 
 
 
-<img width="50" alt="Screenshot 2022-10-12 at 11 43 46 PM" src="https://user-images.githubusercontent.com/9639720/195417498-f79d94e3-8c6e-483e-aebf-1192a416a46f.png">
-
-#APK
 
 
+# APK
 
+<img width="20" alt="Screenshot 2022-10-12 at 11 43 46 PM" src="https://user-images.githubusercontent.com/9639720/195417498-f79d94e3-8c6e-483e-aebf-1192a416a46f.png"> [Download APK](https://github.com/koushikDeb/CurrencySort/blob/master/apk/CurrencySort.apk) 
+
+## App In Action
+
+<img width="200" height = "400" src ="https://github.com/koushikDeb/CurrencySort/blob/master/apk/normal.gif">
+
+
+## Note: 
+To showcase that the sort is working based on currency code while value is same. 
+
+<img width="200" height = "400" src ="https://github.com/koushikDeb/CurrencySort/blob/master/apk/withSameValue.gif">
+
+
+Developed By: [Koushik Deb](https://www.linkedin.com/in/koushik-deb-19562385/?originalSubdomain=in)
 
