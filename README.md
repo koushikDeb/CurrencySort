@@ -27,3 +27,13 @@ The purpose of this app to showcase:
 | 📄   Json | [Json](https://en.wikipedia.org/wiki/JSON) |
 | 🌊   Coroutines | [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines) |
 | 🏄🏼‍♀️   ProduceState | [ProduceState](https://developer.android.com/jetpack/compose/side-effects#producestate) |
+
+
+
+<img width="50" alt="Screenshot 2022-10-12 at 11 43 46 PM" src="https://user-images.githubusercontent.com/9639720/195417498-f79d94e3-8c6e-483e-aebf-1192a416a46f.png">
+
+#APK
+
+
+
+
