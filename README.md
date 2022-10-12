@@ -23,7 +23,6 @@ The purpose of this app to showcase:
 | 🏛   Architecture Components | [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) |
 | 💉   Dagger Hilt | [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android) |
 | 🌐   KTOR | [KTOR](https://ktor.io) |
-| 🚦   OkHttp | [OkHttp](http://square.github.io/okhttp/) |
 | 📄   Json | [Json](https://en.wikipedia.org/wiki/JSON) |
 | 🌊   Coroutines | [Kotlin Coroutines](https://developer.android.com/kotlin/coroutines) |
 | 🏄🏼‍♀️   ProduceState | [ProduceState](https://developer.android.com/jetpack/compose/side-effects#producestate) |
