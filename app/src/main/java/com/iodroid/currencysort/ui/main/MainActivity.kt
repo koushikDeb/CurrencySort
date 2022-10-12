@@ -28,8 +28,10 @@ import androidx.compose.ui.unit.dp
 import com.iodroid.currencysort.repository.domain.model.CurrencyNode
 import com.iodroid.currencysort.ui.theme.CurrencySortTheme
 import com.iodroid.currencysort.ui.theme.Typography_Sort
+import dagger.hilt.android.AndroidEntryPoint
 import java.util.LinkedList
 
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     private val mainViewModel: MainViewModel by viewModels()
 
