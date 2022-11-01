@@ -1,4 +1,6 @@
-# CurrencySort
+# Purpose of this repo is to showcase diffrent structural patterns in multi-module and modularized applications
+
+## CurrencySort
 
 
 This is a sample app written in Kotlin following clean architecture principles which displays 
